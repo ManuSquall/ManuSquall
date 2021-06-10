@@ -1,4 +1,4 @@
-[![Squall background](/img/knight.png)](https://manusquall.azurewebsites.net/){:target="_blank"}
+[![Squall background](/img/knight.png)](https://manusquall.azurewebsites.net/)
 <!--
 **ManuSquall/ManuSquall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
