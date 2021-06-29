@@ -21,4 +21,6 @@ Check my website for more infos 👉🏿 : https://manusquall.azurewebsites.net
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/12637983/manusquall)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/manusquall)
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manusquall&count_private=true)
+
 <br>
