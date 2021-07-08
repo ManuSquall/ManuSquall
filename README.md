@@ -10,7 +10,7 @@ Check my portfolio website for more infos 👉🏿 : https://manusquall.azureweb
 - 🔭 I’m currently working on SharePoint, MS365, low / no code development.
 - 🌱 I’m currently learning SharePoint Framework, Power Platform, React
 - 👯 I’m looking to collaborate on everything related to dev 😁🤩
-- 🤔 I’m looking for help with SPFX, React.
+- 🤔 I’m looking for help with SPFX, Power Platform and React.
 - 💬 Ask me about anything :-)
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: Sharing is caring !
