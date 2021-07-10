@@ -1,7 +1,5 @@
-
 [![Squall header](/img/githubreadme4.5.png)](https://manusquall.azurewebsites.net/)
 
-<p align="center">
 
 Hi !! I'm **Charles Ndiaye** a **Web / Software Developer & Designer** (in my free time 🙃) living in Dakar (Senegal).
 
@@ -17,7 +15,6 @@ Check my portfolio website for more infos 👉🏿 : https://manusquall.azureweb
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: Sharing is caring !
 - 
-</p>
 - 
 ## 📫 Feel free to connect with me on:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/charles-emmanuel-saturnin-ndiaye-a838b5148/)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/manusquall)[<img align="left" alt="linked-in" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/ManuSquall)[<img align="left" alt="medium" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/channels/715770418094669834)[<img align="left" alt="medium" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/manusquall)
