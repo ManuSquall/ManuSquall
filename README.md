@@ -1,5 +1,6 @@
-[![Squall header](/img/githubreadme4.5.png)](https://manusquall.azurewebsites.net/)
+<p align="center">
 
+[![Squall header](/img/githubreadme4.5.png)](https://manusquall.azurewebsites.net/)
 
 Hi !! I'm **Charles Ndiaye** a **Web / Software Developer & Designer** (in my free time 🙃) living in Dakar (Senegal).
 
@@ -26,3 +27,4 @@ Check my portfolio website for more infos 👉🏿 : https://manusquall.azureweb
 <!-- [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/12637983/manusquall) 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@manusquall)
 -->
+</p>
