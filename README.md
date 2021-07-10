@@ -1,4 +1,4 @@
-[![Squall header](/img/githubreadme2.png)](https://manusquall.azurewebsites.net/)
+[![Squall header](/img/githubreadme4.5.png)](https://manusquall.azurewebsites.net/)
 
 
 Hi !! I'm **Charles Ndiaye** a **Web / Software Developer & Designer** (in my free time 🙃) living in Dakar (Senegal).
