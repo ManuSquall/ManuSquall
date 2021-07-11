@@ -1,8 +1,8 @@
-<a align="center" href="https://manusquall.azurewebsites.net/"><img src="img/githubreadme2.png"></a>
+<a align="center" href="https://manusquall.azurewebsites.net/"><img src="img/githubreadme4.5.png"></a>
 
 
 
-<h2 align="center" >Hi !! I'm <b>Charles Ndiaye</b></h2>
+<h2 align="center" >Hi !! I'm <b>ManuSquall</b></h2>
 <p align="center"> A <b>Web / Software Developer & Designer</b> (in my free time 🙃)<br> Living in Dakar (Senegal).</p>
 
 <br>
