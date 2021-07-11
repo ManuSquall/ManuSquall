@@ -1,6 +1,7 @@
 <a align="center" href="https://manusquall.azurewebsites.net/"><img src="img/githubreadme2.png"></a>
 
 
+
 <h2 align="center" >Hi !! I'm <b>Charles Ndiaye</b></h2>
 <p align="center"> A <b>Web / Software Developer & Designer</b> (in my free time 🙃)<br> Living in Dakar (Senegal).</p>
 
@@ -15,10 +16,11 @@
 - 🔭 I’m currently working on SharePoint, MS365, low / no code development.
 - 🌱 I’m currently learning SharePoint Framework, Power Platform, React
 - 👯 I’m looking to collaborate on everything related to dev 😁🤩
-- 🤔 I’m looking for help with SPFX, React.
+- 🤔 I’m looking for help with SPFX, Power Platform and React.
 - 💬 Ask me about anything :-)
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: Sharing is caring !
+
 
 <br>
 <br>
@@ -31,7 +33,6 @@
 <a href="https://discordapp.com/channels/715770418094669834"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="https://www.behance.net/manusquall"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
 </p>
-
 <br>
 <br>
 <br>
