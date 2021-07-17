@@ -27,11 +27,11 @@
 
 <h2 align="center"> 📫 Feel free to connect with me on:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/charles-emmanuel-ndiaye-a838b5148/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/manusquall"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-<a href="https://www.reddit.com/user/ManuSquall"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
-<a href="https://discordapp.com/channels/715770418094669834"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href="https://www.behance.net/manusquall"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/charles-emmanuel-saturnin-ndiaye-a838b5148/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://twitter.com/manusquall" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
+<a href="https://www.reddit.com/user/ManuSquall" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> 
+<a href="https://discordapp.com/channels/715770418094669834" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+<a href="https://www.behance.net/manusquall" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
 </p>
 <br>
 <br>
