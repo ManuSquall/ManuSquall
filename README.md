@@ -39,6 +39,8 @@
 <p align="center">
 <a href="https://manusquall.azurewebsites.net/" target="_blank" >
   <img src="https://github-readme-stats.vercel.app/api?username=manusquall&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manusquall&layout=compact&show_icons=true&theme=tokyonight&count_private=true" />
+
 </a>
  </p>
 <br>
