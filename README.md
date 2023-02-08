@@ -7,7 +7,7 @@
 
 <br>
 
-<p align="center">Check my portfolio website for more infos 😊 :<br> 👉🏿  <a href="https://manusquall.azurewebsites.net/">https://manusquall.azurewebsites.net</a>.</p>
+<p align="center">Check my portfolio website for more infos 😊 :<br> 👉🏿  <a href="https://manusquall.me/">https://manusquall.me</a>.</p>
 
 <br>
 <br>
